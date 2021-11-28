@@ -1,2 +1,2 @@
 # AVR_Atmega32_Drivers-
-this repo contains different drivers for  Atmega32 peripheral 
+this repo contains the mapping of the Atmega32 MC memory 
